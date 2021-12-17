@@ -1,1 +1,2 @@
 # odin-recipes
+current project: create a basic recipes website using ONLY HTML. The purpose of this project is to demonstrate my understanding of crating a basic HTML boilerplate, prope use of HTML elements and their relationship to other elements, good practice of file reference and file organization, while using Git from my local machine.
